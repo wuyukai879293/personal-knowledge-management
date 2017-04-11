@@ -33,4 +33,4 @@ git config --global user.email "wuyukai879293@gmail.com"
 ## 一些常用的 git 指令
 `git status`,`git add <file name>`,`git commit -m "commit msg"`等。
 ## 参考
-[git系列参考-git历险记](!http://www.infoq.com/cn/news/2011/03/git-adventures-index-commit?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
+[git系列参考-git历险记](http://www.infoq.com/cn/news/2011/03/git-adventures-index-commit?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
